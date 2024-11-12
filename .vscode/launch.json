@@ -2,6 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "DomainExtractor",
+      "request": "launch",
+      "mainClass": "DomainExtractor",
+      "projectName": "Problem-Solving_1a028cfe"
+    },
+    {
+      "type": "java",
+      "name": "LongestSubstringWithoutRepeating",
+      "request": "launch",
+      "mainClass": "LongestSubstringWithoutRepeating",
+      "projectName": "Problem-Solving_1a028cfe"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
